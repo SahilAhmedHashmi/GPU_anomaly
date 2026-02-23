@@ -1,0 +1,9 @@
+﻿# Ignore everything
+*
+
+# Except these files
+!gpu_anomaly.py
+!README.md
+!requirements.txt
+!.env.example
+!.gitignore
